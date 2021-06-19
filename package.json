@@ -6,7 +6,7 @@
   "dependencies": {
     "eslint": "^5.16.0",
     "ffi-napi": "*",
-    "node-gyp": "*",
+    "node-gyp": "7.1.2",
     "ref": "*",
     "ref-array": "*"
   },
